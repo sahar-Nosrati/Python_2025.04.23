@@ -1,1 +1,2 @@
-# Python_2025.04.23
+# study Python
+  - study and practice List comprehension
